@@ -8,4 +8,5 @@ ajouter vos cles dans le fichier providr.tf puis modifier l'id apres euw-3 dans 
 #et finalement excuter ces commandes : TERRAFOM Init et TERRAFORM Apply
 
 
-![image](https://github.com/MAmineZZ/AWS_Project/assets/44125804/84e4c183-1c73-443f-902e-a8bb59ee7193)
+
+![archi](https://github.com/MAmineZZ/AWS_Project/assets/44125804/6415fa68-eb0f-4137-8098-4f8a54db3599)
